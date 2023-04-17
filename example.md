@@ -3,6 +3,8 @@ http://cheapskate-nginx.fly.dev/?target_url=movie/fden92906216/
 or
 https://cheapskate-nginx.fly.dev/?target_moiveID=fden92906216
 
+http://localhost/?target_movieID=fden92906216
+
 
 proxy pass to target_url
 http://www.atmovies.com.tw/movie/fden92906216/
